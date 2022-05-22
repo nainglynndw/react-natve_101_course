@@ -1,0 +1,112 @@
+string  = စာ    "  "
+number = နံပါတ်  483498
+boolean = true/false
+object = {  name : "agag"   , age : 18 , address : "ygn" , married : false  }
+array = [ "apple" , "orange" , "banana"  , 1 ,2 ,4  , true  , false  ]
+array = [ {  name : "agag"   , age : 18 , address : "ygn" , married : false  } ,  {  name : "mgmg"   , age : 20 , address : "ygn" , married : false  }  ]
+
+measurement =  number , % , flex
+
+number = db 
+% = parent
+flex =  sibling တွေအတွက်နေရာဖယ်ပေးပြီး ကျန်နေရာယူ
+
+margin = outside 
+padding = inside
+
+
+default 
+display    = "flex"
+flexDirection = "column"
+
+Axis Related Layout Style
+
+Axis = flexDirection
+justifyContent = Primary Axis
+alignItems = Secondary Axis
+
+Directory ( or ) Path  ( or ) Route
+  /    path seperator
+
+  /    root folder
+  ..    1 step backward
+  ../..   2 step backward
+  .  current folder
+  
+
+comment in js code
+
+ctrl+/
+
+
+React Navgiation
+----------------------
+
+Dependancies Libraries
+"npm install @react-navigation/native"
+"expo install react-native-screens react-native-safe-area-context"
+
+1. Stack Navigator
+"npm install @react-navigation/native-stack"
+
+2. Drawer Navigator
+3. Tab Navigator
+   1. Top Tab Navigator
+   2. Bottom Tab Navigator
+   3. Material Bottom Tab Navigator
+
+Javasctipt
+------------
+
+Asychronous Programming = Execute All at Once
+
+Variable
+-----------
+
+var , let , const
+
+var name = "agag"
+let  age = 18
+const married = false
+
+Condition 
+-----------
+if (....) {.....}  
+esle if (....) {.....} 
+else if (....) {.....} 
+else {....}
+
+
+Operator 
+-----------
+
+==            equal but not data type
+===         identical
+>             greater than
+<             less than
+>=          greater than euqal to 
+<=          less than equal to
+!              not    (  !== , !> , !< , !>= , !<= )
+variable++          add 1 to current value
+variable--            minus 1 to current value
+
+
+looping
+---------
+
+for ( let i = 0 ;  i < 10  ;  i++ ) { 
+.....
+}
+
+
+
+
+
+Hooks
+--------
+1. useState Hook 
+
+
+
+
+
